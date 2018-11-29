@@ -1,0 +1,1091 @@
+[
+  {
+      "sku": 001,
+      "unit price": 1.00,
+      "brand": "Yazoo",
+      "product": "Yazoo Chilled Chocolate Flavour Milkshake 400ML",
+      "tags": [
+          "Fresh",
+          "Food"  
+    ],
+      "category": "Milk",
+      "location": 22,
+      "saleDiscount": 0.5
+  },
+  {
+      "sku": 002,
+      "unit price": 3.00,
+      "brand": "Alpro",
+      "product": "Alpro Hazelnut Longlife Milk Alternative 1L",
+      "tags": [
+          "Fresh",
+          "Food"  
+    ],
+      "category": "Milk",
+      "location": 22,
+      "saleDiscount": 0.4
+  },
+  {
+      "sku": 003,
+      "unit price": 1.30,
+      "brand": "Lactofree",
+      "product": "Lactofree Longlife Whole Milk 1L",
+      "tags": [
+          "Fresh",
+          "Food"  
+    ],
+      "category": "Milk",
+      "location": 22,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 004,
+      "unit price": 1.70,
+      "brand": "Starbucks",
+      "product": "Starbucks Coffee Seattle Latte 220ML",
+      "tags": [
+          "Fresh",
+          "Food"  
+    ],
+      "category": "Milk",
+      "location": 22,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 005,
+      "unit price": 1.80,
+      "brand": "Flora",
+      "product": "Flora Buttery Spread 500G",
+      "tags": [
+          "Fresh",
+          "Food"  
+    ],
+      "category": "Butter",
+      "location": 18,
+      "saleDiscount": 0.45
+  },
+  {
+      "sku": 006,
+      "unit price": 1.00,
+      "brand": "Flora",
+      "product": "Flora Original Spread 500G",
+      "tags": [
+          "Fresh",
+          "Food"  
+    ],
+      "category": "Butter",
+      "location": 18,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 007,
+      "unit price": 1.85,
+      "brand": "Clover",
+      "product": "Clover Original Spread 500G",
+      "tags": [
+          "Fresh",
+          "Food"  
+    ],
+      "category": "Butter",
+      "location": 18,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 008,
+      "unit price": 3.90,
+      "brand": "Flora",
+      "product": "Flora Pro Activ Light Spread 500G",
+      "tags": [
+          "Fresh",
+          "Food"  
+    ],
+      "category": "Butter",
+      "location": 18,
+      "saleDiscount": 0.24
+  },
+  {
+      "sku": 009,
+      "unit price": 5.50,
+      "brand": "Cathedral City",
+      "product": "Cathedral City Mature Cheddar Cheese 550G",
+      "tags": [
+          "Fresh",
+          "Food",
+        "Cheedar cheese"  
+    ],
+      "category": "Cheese",
+      "location": 18,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 010,
+      "unit price": 2.00,
+      "brand": "Cathedral City",
+      "product": "Cathedral City Mature Sliced Cheese 150G",
+      "tags": [
+          "Fresh",
+          "Food",
+        "Cheddar cheese"  
+    ],
+      "category": "Cheese",
+      "location": 18,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 011,
+      "unit price": 1.50,
+      "brand": "Apetina",
+      "product": "Apetina Classic Block Cheese 200G",
+      "tags": [
+          "Fresh",
+          "Food",
+        "Feta cheese"  
+    ],
+      "category": "Cheese",
+      "location": 18,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 012,
+      "unit price": 2.00,
+      "brand": "Apetina",
+      "product": "Apetina Cheese Cubes 200G",
+      "tags": [
+          "Fresh",
+          "Food",
+        "Feta cheese"  
+    ],
+      "category": "Cheese",
+      "location": 18,
+      "saleDiscount": 0.25
+  },
+  {
+      "sku": 013,
+      "unit price": 2.00,
+      "brand": "Apetina",
+      "product": "Apetina Garlic and Herb Cheese 200G",
+      "tags": [
+          "Fresh",
+          "Food",
+        "Feta cheese"  
+    ],
+      "category": "Cheese",
+      "location": 18,
+      "saleDiscount": 0.25
+  },
+  {
+      "sku": 014,
+      "unit price": 1.40,
+      "brand": "The Laughing Cow",
+      "product": "The Laughing Cow Light Cheese Triangles 140G",
+      "tags": [
+          "Fresh",
+          "Food",
+        "Cheese snacks"  
+    ],
+      "category": "Cheese",
+      "location": 18,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 015,
+      "unit price": 1.40,
+      "brand": "The Laughing Cow",
+      "product": "The Laughing Cow Original Cheese Triangles 140G",
+      "tags": [
+          "Fresh",
+          "Food",
+        "Cheese snacks"  
+    ],
+      "category": "Cheese",
+      "location": 18,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 016,
+      "unit price": 1.50,
+      "brand": "Petits Filous",
+      "product": "Petits Filous Strawberry Raspberry Fromage Frais 4x85G",
+      "tags": [
+          "Fresh",
+          "Food",
+        "Kids"  
+    ],
+      "category": "Yoghurts",
+      "location": 18,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 017,
+      "unit price": 1.50,
+      "brand": "Petits Filous",
+      "product": "Petits Filous Apricot and Strawberry Fromage Frais 4x85G",
+      "tags": [
+          "Fresh",
+          "Food",
+        "Kids"  
+    ],
+      "category": "Yoghurts",
+      "location": 18,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 018,
+      "unit price": 2.90,
+      "brand": "Actimel",
+      "product": "Actimel Fat Free Strawberry Yoghurt Drink 8x100G",
+      "tags": [
+          "Fresh",
+          "Food",
+        "Drink"  
+    ],
+      "category": "Yoghurts",
+      "location": 18,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 019,
+      "unit price": 1.00,
+      "brand": "Frubes",
+      "product": "Frubes Strawberry Yoghurt Drink 4x180G",
+      "tags": [
+          "Fresh",
+          "Food",
+        "Drink"  
+    ],
+      "category": "Yoghurts",
+      "location": 18,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 020,
+      "unit price": 1.50,
+      "brand": "Cadbury",
+      "product": "Cadbury Dairy Milk Cookies 4 pack",
+      "tags": [
+          "Bakery",
+          "Food"  
+    ],
+      "category": "Cookies",
+      "location": 31,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 021,
+      "unit price": 1.50,
+      "brand": "Cadbury",
+      "product": "Cadbury Dairy Milk Caramel Cookies 4 pack",
+      "tags": [
+          "Bakery",
+          "Food"  
+    ],
+      "category": "Cookies",
+      "location": 31,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 022,
+      "unit price": 1.35,
+      "brand": "Warburtons",
+      "product": "Warburtons Farmhouse White Bread 800G",
+      "tags": [
+          "Bakery",
+          "Food"  
+    ],
+      "category": "Bread",
+      "location": 26,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 023,
+      "unit price": 1.05,
+      "brand": "Warburtons",
+      "product": "Warburtons Medium Sliced White Bread 800G",
+      "tags": [
+          "Bakery",
+          "Food"  
+    ],
+      "category": "Bread",
+      "location": 26,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 024,
+      "unit price": 1.00,
+      "brand": "7 Days",
+      "product": "7 Days Mini Croissant with Cocoa Filling 185G",
+      "tags": [
+          "Bakery",
+          "Food"  
+    ],
+      "category": "Pastries",
+      "location": 13,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 025,
+      "unit price": 0.50,
+      "brand": "7 Days",
+      "product": "7 Days Max Croissant Cocoa Filling 80G",
+      "tags": [
+          "Bakery",
+          "Food"  
+    ],
+      "category": "Pastries",
+      "location": 13,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 026,
+      "unit price": 0.50,
+      "brand": "7 Days",
+      "product": "7 Days Double Max Croissant With Cocoa and Vanilla 80G",
+      "tags": [
+          "Bakery",
+          "Food"  
+    ],
+      "category": "Pastries",
+      "location": 13,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 027,
+      "unit price": 2.50,
+      "brand": "Dr. Oetker",
+      "product": "Dr. Oetker Ristorante Pizza Pepperoni Salame 320G",
+      "tags": [
+          "Frozen",
+          "Food"  
+    ],
+      "category": "Frozen Pizza",
+      "location": 19,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 028,
+      "unit price": 2.50,
+      "brand": "Dr. Oetker",
+      "product": "Dr. Oetker Ristorante Pizza Mozzarella 335G",
+      "tags": [
+          "Frozen",
+          "Food"  
+    ],
+      "category": "Frozen Pizza",
+      "location": 19,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 029,
+      "unit price": 2.50,
+      "brand": "Dr. Oetker",
+      "product": "Dr. Oetker Ristorante Pizza Hawaii 355G",
+      "tags": [
+          "Frozen",
+          "Food"  
+    ],
+      "category": "Frozen Pizza",
+      "location": 19,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 030,
+      "unit price": 1.75,
+      "brand": "Heinz",
+      "product": "Weight Watchers Beef Lasagne 320G",
+      "tags": [
+          "Frozen",
+          "Food"  
+    ],
+      "category": "Frozen Ready Meals",
+      "location": 16,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 031,
+      "unit price": 1.75,
+      "brand": "Heinz",
+      "product": "Weight Watchers Penne Bolognese 320G",
+      "tags": [
+          "Frozen",
+          "Food"  
+    ],
+      "category": "Frozen Ready Meals",
+      "location": 16,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 032,
+      "unit price": 2.50,
+      "brand": "Bella Italia",
+      "product": "Bella Italia Polpette 250G",
+      "tags": [
+          "Frozen",
+          "Food"  
+    ],
+      "category": "Frozen Ready Meals",
+      "location": 16,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 033,
+      "unit price": 4.00,
+      "brand": "Bella Italia",
+      "product": "Bella Italia Pancetta Carbonara 450G",
+      "tags": [
+          "Frozen",
+          "Food"  
+    ],
+      "category": "Frozen Ready Meals",
+      "location": 16,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 034,
+      "unit price": 4.50,
+      "brand": "Ben and Jerry's",
+      "product": "Ben and Jerry's Cookie Dough ice cream 500ML",
+      "tags": [
+          "Frozen",
+          "Food"  
+    ],
+      "category": "Frozen Desserts",
+      "location": 14,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 035,
+      "unit price": 4.80,
+      "brand": "Ben and Jerry's",
+      "product": "Ben and Jerry's Moophoria Caramel ice cream 500ML",
+      "tags": [
+          "Frozen",
+          "Food"  
+    ],
+      "category": "Frozen Desserts",
+      "location": 14,
+      "saleDiscount": 0.45
+  },
+  {
+      "sku": 036,
+      "unit price": 4.20,
+      "brand": "Haagen-Dazs",
+      "product": "Haagen-Dazs Salted Caramel ice cream 460ML",
+      "tags": [
+          "Frozen",
+          "Food"  
+    ],
+      "category": "Frozen Desserts",
+      "location": 14,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 037,
+      "unit price": 4.20,
+      "brand": "Haagen-Dazs",
+      "product": "Haagen-Dazs Pralines and cream ice cream 460ML",
+      "tags": [
+          "Frozen",
+          "Food"  
+    ],
+      "category": "Frozen Desserts",
+      "location": 14,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 038,
+      "unit price": 1.66,
+      "brand": "Coca Cola",
+      "product": "Diet Coke 2L",
+      "tags": [
+          "Fizzy",
+          "Food"  
+    ],
+      "category": "Drinks",
+      "location": 33,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 039,
+      "unit price": 1.50,
+      "brand": "Pepsi",
+      "product": "Pepsi Max 2L",
+      "tags": [
+          "Fizzy",
+          "Food"  
+    ],
+      "category": "Drinks",
+      "location": 33,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 040,
+      "unit price": 4.50,
+      "brand": "Coca Cola",
+      "product": "Coca cola 10x330ML",
+      "tags": [
+          "Fizzy",
+          "Food"  
+    ],
+      "category": "Drinks",
+      "location": 33,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 041,
+      "unit price": 3.19,
+      "brand": "Coca Cola",
+      "product": "Sprite No Sugar 6x330ML",
+      "tags": [
+          "Fizzy",
+          "Food"  
+    ],
+      "category": "Drinks",
+      "location": 33,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 042,
+      "unit price": 3.55,
+      "brand": "Coca Cola",
+      "product": "Fanta Orange Zero 6x330ML",
+      "tags": [
+          "Fizzy",
+          "Food"  
+    ],
+      "category": "Drinks",
+      "location": 33,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 043,
+      "unit price": 3.00,
+      "brand": "Pantene",
+      "product": "Pantene Pro-V Repair and Protect Shampoo 400ML",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Shampoo"  
+    ],
+      "category": "Haircare",
+      "location": 31,
+      "saleDiscount": 0.33
+  },
+  {
+      "sku": 044,
+      "unit price": 3.00,
+      "brand": "Pantene",
+      "product": "Pantene Pro-V Smooth and Sleek Shampoo 400Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Shampoo"  
+    ],
+      "category": "Haircare",
+      "location": 31,
+      "saleDiscount": 0.33
+  },
+  {
+      "sku": 045,
+      "unit price": 3.00,
+      "brand": "Pantene",
+      "product": "Pantene Pro-V Smooth And Sleek Conditioner 400Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Conditioner"  
+    ],
+      "category": "Haircare",
+      "location": 31,
+      "saleDiscount": 0.33
+  },
+  {
+      "sku": 046,
+      "unit price": 3.00,
+      "brand": "Pantene",
+      "product": "Pantene Repair And Protect 3 Minute Miracle 200Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Conditioner"  
+    ],
+      "category": "Haircare",
+      "location": 31,
+      "saleDiscount": 0.33
+  },
+  {
+      "sku": 047,
+      "unit price": 3.50,
+      "brand": "L’Oreal",
+      "product": "L’Oreal Studio Line Invisible Hold Gel Strong 150Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Styling"  
+    ],
+      "category": "Haircare",
+      "location": 31,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 048,
+      "unit price": 3.50,
+      "brand": "L’Oreal",
+      "product": "L’Oreal Studio Line Line Xtreme Hold Gel 150Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Styling"  
+    ],
+      "category": "Haircare",
+      "location": 31,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 049,
+      "unit price": 3.50,
+      "brand": "L’Oreal",
+      "product": "L’Oreal Studio Line Line Rework Remix 150Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Styling"  
+    ],
+      "category": "Haircare",
+      "location": 31,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 050,
+      "unit price": 0.80,
+      "brand": "Colgate",
+      "product": "Colgate Cavity Protection Toothpaste 75Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Oral care"  
+    ],
+      "category": "Toothpaste",
+      "location": 17,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 051,
+      "unit price": 1.00,
+      "brand": "Colgate",
+      "product": "Colgate Triple Action Toothpaste 100Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Oral care"  
+    ],
+      "category": "Toothpaste",
+      "location": 17,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 052,
+      "unit price": 0.80,
+      "brand": "Aquafresh",
+      "product": "Aquafresh Freshmint Toothpaste 75Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Oral care"  
+    ],
+      "category": "Toothpaste",
+      "location": 17,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 053,
+      "unit price": 3.50,
+      "brand": "Colgate",
+      "product": "Colgate Plax Cool Mint Mouthwash 500Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Oral care"  
+    ],
+      "category": "Mouthwash",
+      "location": 17,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 054,
+      "unit price": 4.50,
+      "brand": "Listerine",
+      "product": "Listerine Stay White Mouthwash 500Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Oral care"  
+    ],
+      "category": "Mouthwash",
+      "location": 17,
+      "saleDiscount": 0.50
+  },
+  {
+      "sku": 055,
+      "unit price": 4.50,
+      "brand": "Listerine",
+      "product": "Listerine Total Care Mouthwash 500Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Oral care"  
+    ],
+      "category": "Mouthwash",
+      "location": 17,
+      "saleDiscount": 0.50
+  },
+  {
+      "sku": 056,
+      "unit price": 5.00,
+      "brand": "Nivea",
+      "product": "Nivea Body Rich Nourishing Moisturiser 400Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Moisturiser"  
+    ],
+      "category": "Face & Body Skincare",
+      "location": 28,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 057,
+      "unit price": 6.00,
+      "brand": "Vaseline",
+      "product": "Vaseline Intensive Care Essential Body Lotion 400Ml",
+      "tags": [
+          "Health",
+          "Beauty",
+        "Body Lotion"  
+    ],
+      "category": "Face & Body Skincare",
+      "location": 28,
+      "saleDiscount": 0.50
+  },
+  {
+      "sku": 058,
+      "unit price": 7.00,
+      "brand": "Ariel",
+      "product": "Ariel Washing Powder 40 Washes 2.6Kg",
+      "tags": [
+        "Household",
+          "Laundry",
+          "Washing"  
+    ],
+      "category": "Washing Powder",
+      "location": 29,
+      "saleDiscount": 0.10
+  },
+  {
+      "sku": 059,
+      "unit price": 7.00,
+      "brand": "Ariel",
+      "product": "Ariel Original 3In1 Pods Washing Capsules 25 Wash",
+      "tags": [
+        "Household",
+          "Laundry",
+          "Washing"  
+    ],
+      "category": "Washing Capsules",
+      "location": 29,
+      "saleDiscount": 0.20
+  },
+  {
+      "sku": 060,
+      "unit price": 5.50,
+      "brand": "Ariel",
+      "product": "Ariel 3In1 Pods Washing Capsules 19 Washes",
+      "tags": [
+        "Household",
+          "Laundry",
+          "Washing"  
+    ],
+      "category": "Washing Capsules",
+      "location": 29,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 061,
+      "unit price": 1.50,
+      "brand": "Fairy",
+      "product": "Fairy Original Washing Up Liquid 500Ml",
+      "tags": [
+        "Household",
+          "Laundry",
+          "Washing"  
+    ],
+      "category": "Dishwashing",
+      "location": 29,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 062,
+      "unit price": 1.50,
+      "brand": "Fairy",
+      "product": "Fairy Lemon Washing Up Liquid 500Ml",
+      "tags": [
+        "Household",
+          "Laundry",
+          "Washing"  
+    ],
+      "category": "Dishwashing",
+      "location": 29,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 063,
+      "unit price": 12.00,
+      "brand": "Finish",
+      "product": "Finish All in One Max Lemon Dishwasher Tablets 85s",
+      "tags": [
+        "Household",
+          "Laundry",
+          "Washing"  
+    ],
+      "category": "Dishwashing",
+      "location": 29,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 064,
+      "unit price": 1.75,
+      "brand": "Duck",
+      "product": "Duck Deep Action Gel Pine 750Ml",
+      "tags": [
+        "Household",
+          "Laundry",
+          "Washing"  
+    ],
+      "category": "Toilet Cleaners",
+      "location": 11,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 065,
+      "unit price": 1.75,
+      "brand": "Duck",
+      "product": "Duck Deep Action Toilet Gel Mint 750Ml",
+      "tags": [
+        "Household",
+          "Laundry",
+          "Washing"  
+    ],
+      "category": "Toilet Cleaners",
+      "location": 11,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 066,
+      "unit price": 1.25,
+      "brand": "Harpic",
+      "product": "Harpic White And Shine Citrus Toilet Bleach 750 Ml",
+      "tags": [
+        "Household",
+          "Laundry",
+          "Washing"  
+    ],
+      "category": "Bleach",
+      "location": 11,
+      "saleDiscount": 0.20
+  },
+  {
+      "sku": 067,
+      "unit price": 2.50,
+      "brand": "Cif",
+      "product": "Cif Power And Shine Bathroom Cleaner Spray 700Ml",
+      "tags": [
+        "Household",
+          "Laundry",
+          "Washing"  
+    ],
+      "category": "Bathroom Cleaning",
+      "location": 11,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 068,
+      "unit price": 2.50,
+      "brand": "Cif",
+      "product": "Cif Citrus Bathroom Mousse 500Ml",
+      "tags": [
+        "Household",
+          "Laundry",
+          "Washing"  
+    ],
+      "category": "Bathroom Cleaning",
+      "location": 11,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 069,
+      "unit price": 0.50,
+      "brand": "Gourmet",
+      "product": "Gourmet Gold Pate With Ocean Fish 85G",
+      "tags": [
+        "Pets",
+          "Cat",
+          "Tinned Food"  
+    ],
+      "category": "Cat Food",
+      "location": 12,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 070,
+      "unit price": 0.50,
+      "brand": "Gourmet",
+      "product": "Gourmet Gold Savoury Cake Chicken 85G",
+      "tags": [
+        "Pets",
+          "Cat",
+          "Tinned Food"  
+    ],
+      "category": "Cat Food",
+      "location": 12,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 071,
+      "unit price": 0.50,
+      "brand": "Gourmet",
+      "product": "Gourmet Gold Terrine With Salmon 85G",
+      "tags": [
+        "Pets",
+          "Cat",
+          "Tinned Food"  
+    ],
+      "category": "Cat Food",
+      "location": 12,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 072,
+      "unit price": 5.75,
+      "brand": "Purina",
+      "product": "Purina One Cat Adult Chicken And Rice 800G",
+      "tags": [
+        "Pets",
+          "Cat",
+          "Dry Food"  
+    ],
+      "category": "Cat Food",
+      "location": 12,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 073,
+      "unit price": 5.75,
+      "brand": "Purina",
+      "product": "Purina One Cat Adult Salmon And Whole Grain 800G",
+      "tags": [
+        "Pets",
+          "Cat",
+          "Dry Food"  
+    ],
+      "category": "Cat Food",
+      "location": 12,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 074,
+      "unit price": 14.00,
+      "brand": "Purina",
+      "product": "Purina One Cat Adult Salmon And Whole Grain 3Kg",
+      "tags": [
+        "Pets",
+          "Cat",
+          "Dry Food"  
+    ],
+      "category": "Cat Food",
+      "location": 12,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 075,
+      "unit price": 6.50,
+      "brand": "Pedigree",
+      "product": "Pedigree Dog Food Tins Meat in Gravy 12x400g",
+      "tags": [
+        "Pets",
+          "Dog",
+          "Tinned Food"  
+    ],
+      "category": "Dog Food",
+      "location": 12,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 076,
+      "unit price": 6.50,
+      "brand": "Pedigree",
+      "product": "Pedigree Dog Food Tins Mixed Variety in Jelly 12x385g",
+      "tags": [
+        "Pets",
+          "Dog",
+          "Tinned Food"  
+    ],
+      "category": "Dog Food",
+      "location": 12,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 077,
+      "unit price": 1.50,
+      "brand": "Pedigree",
+      "product": "Pedigree Can Original Tinned Dog Food 1.2Kg",
+      "tags": [
+        "Pets",
+          "Dog",
+          "Tinned Food"  
+    ],
+      "category": "Dog Food",
+      "location": 12,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 078,
+      "unit price": 2.75,
+      "brand": "Pedigree",
+      "product": "Pedigree Small Dog Chicken And Vegetable Dry Dog Food 900G",
+      "tags": [
+        "Pets",
+          "Dog",
+          "Dry Food"  
+    ],
+      "category": "Dog Food",
+      "location": 12,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 079,
+      "unit price": 4.50,
+      "brand": "Pedigree",
+      "product": "Pedigree Original Dog Mixer 3Kg",
+      "tags": [
+        "Pets",
+          "Dog",
+          "Dry Food"  
+    ],
+      "category": "Dog Food",
+      "location": 12,
+      "saleDiscount": 0
+  },
+  {
+      "sku": 080,
+      "unit price": 5.50,
+      "brand": "Pedigree",
+      "product": "Pedigree Small Dog Dry Food Chicken 2.3Kg",
+      "tags": [
+        "Pets",
+          "Dog",
+          "Dry Food"  
+    ],
+      "category": "Dog Food",
+      "location": 12,
+      "saleDiscount": 0.30
+  }
+]

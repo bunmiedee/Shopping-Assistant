@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Item Finder",
+    "description": "Test Item locator for Retail stores",
+    "slug": "ItemFinder",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "assets/icon.png",
+    "splash": {
+      "image": "assets/splash-3.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#fff"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "dae",
+        "obj",
+        "mtl"
+      ]
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.shoppertrak.locator",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.shoppertrak.locator"
+    }
+  }
+}
